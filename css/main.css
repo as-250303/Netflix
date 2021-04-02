@@ -187,7 +187,6 @@ margin-right: 6vw; */
 @media screen and (max-width: 560px) {
   body {
     background: linear-gradient(90deg, rgba(0, 0, 0) 30%, rgb(141, 3, 3));
-    background-repeat: round;
   }
   .main {
     grid-template-columns: repeat(1, 220px);
