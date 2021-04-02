@@ -17,7 +17,7 @@ let x=0,y=15;
     }
     function testjs(name) {
         var b = name,
-        url = 'https://netflix-techarmy.me//index2.html?name=' + encodeURIComponent(b);
+        url = 'https://netflix-techarmy.me/index2.html?name=' + encodeURIComponent(b);
     
             window.location.assign(url);
     }
