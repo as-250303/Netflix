@@ -185,6 +185,9 @@ margin-right: 6vw; */
 }
 
 @media screen and (max-width: 560px) {
+  .footer{
+     margin-top: 250px;
+  }
   body {
     background: linear-gradient(90deg, rgba(0, 0, 0) 30%, rgb(141, 3, 3));
   }
