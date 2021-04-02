@@ -17,7 +17,7 @@ let x=0,y=15;
     }
     function testjs(name) {
         var b = name,
-        url = 'http://127.0.0.1:5500/Netfix/index2.html?name=' + encodeURIComponent(b);
+        url = 'https://as-250303.github.io/Netflix/index2.html?name=' + encodeURIComponent(b);
     
             window.location.assign(url);
     }
